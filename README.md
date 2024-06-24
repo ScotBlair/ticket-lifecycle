@@ -11,15 +11,16 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-- Intake
-- Assignment and Communication
-- Working the Issue
-- Resolution
+- Intake<br />
+I have logged into osTicket as the customer Robert Moore and submitted a support ticket for a slow personal laptop.  The customer is complaining that after the new update, Windows is slow to start up and that apps are taking a long time to load.
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+- Assignment and Communication<br />
+The admin Scot Blair has looked over the ticket and assigned it to John Doe in the Support department due to its low level of severity.
+
+- Working the Issue<br />
+John Doe's first thought after viewing the ticket is that the computer needs to be restarted to clear out the memory cache.  If this does not resolve the issue, then he may have to Remote Desktop into Robert's pc and check the system's resources in Task Manager.  A restart is the simplest first step to take.
+
+- Resolution<br />
+John Doe reaches out to Robert Moore and informs him that a restart may be all that is required to resolve the issue and explains why.  Robert restarts the computer as instructed and tells John that it now runs faster and apps load quicker.  John marks the ticket as Resolved.
+
+![Screenshot_24-6-2024_645_localhost](https://github.com/ScotBlair/ticket-lifecycle/assets/171102023/fc0659d3-d748-4de3-8c31-de5da5fe8a05)
