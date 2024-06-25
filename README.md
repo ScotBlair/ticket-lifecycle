@@ -10,6 +10,8 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Ticket Lifecycle Stages</h2>
 
-[Example 1: Slow Personal Computer](https://github.com/ScotBlair/Example-1)<br />
-[Example 2: Password Reset](https://github.com/ScotBlair/Example-2)<br />
-[Example 3: Mobile Banking/Online System Down](https://github.com/ScotBlair/Example-3)<br />
+- [Example 1: Slow Personal Computer](https://github.com/ScotBlair/Example-1)<br />
+
+- [Example 2: Password Reset](https://github.com/ScotBlair/Example-2)<br />
+
+- [Example 3: Mobile Banking/Online System Down](https://github.com/ScotBlair/Example-3)<br />
